@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name": "Julio Maldonado",
+    "occupation": "Software Engineer",
+    "description": "I consult business owners on technical solutions, I write custom code to support critical business needs, and I advocate for underrepresented minorities in the tech industry",
+    "image": "profilepic.jpg",
+    "bio": "I'm a Mexico-born DACA recipient, TAMU Alumna, and software engineer. I'm passionate about advocating for the undocumended, underserved and underrepresented, as well as solving problems for them. My education has given me incredible opportunities so I use my story to inspire others. On my free time, I enjoy boarding including skateboarding, longboarding, skimboarding, and snowboarding. I'm available for media interviews, speaking events, consulting interesting projects, offering advice, or to just talk - feel free to reach out.",
+    "contactmessage": "Contact me for media interviews, speaking events, consulting, or anything else.",
+    "email": "julio.maldonado.guzman@gmail.com",
+    "address": {
+      "city": "Harlingen, Texas"
+    },
+    "website": "http://www.juliomaldonado.com",
+    "resumedownload": "http://juliomaldonado.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/julio.maldonado.904",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/juliom72/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_julio_maldonado/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Julio-Maldonado",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Waiting for the DACA Decision During the Pandemics: Two Perspectives",
+        "degree": "",
+        "graduated": "Dr. Dilma Da Silva and Julio Maldonado Guzman",
+        "description": "Article co-written with Dr. Dilma Da Silva on the DACA experience during the then upcoming Supreme Court decision in the midst of COVID-19"
+      },
+      {
+        "school": "GraphBLAS: Solving Graph Algorithms with Linear Algebra",
+        "degree": "",
+        "graduated": "Julio Cesar Maldonado Guzman",
+        "description": "Published undergraduate thesis on the usage of GraphBLAS, a C library to represent graphs as hypersparse matrices and perform operations in the language of linear algebra, under Dr. Timothy Davis."
+      }
+    ],
+    "work": [
+      {
+        "company": "Commentary: Inland Border Patrol checkpoints shouldn’t hurt those who live here",
+        "title": "Samuel Garcia",
+        "years": "Statesman New Network",
+        "description": "Article arguing for the removal of Inland Border Patrol checkpoints using my story as an example"
+      },
+      {
+        "company": "Super Cool Studio",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Fiesta's Photobooth",
+        "category": "Website for a Los Angeles based photobooth rental company",
+        "image": "fiestas-photobooth.png",
+        "url": "https://www.fiestasphotobooth.com"
+      },
+      {
+        "title": "Physician Practicing Smarter",
+        "category": "Website for a South Texas based medical billing company",
+        "image": "physician-practicing-smarter.png",
+        "url": "http://www.physicianpracticingsmarter.com"
+      },
+      {
+        "title": "RGV COVID-19 Cases Website",
+        "category": "RGV COVID-19 active cases tracker website I made",
+        "image": "rgv-covid-19-cases.png",
+        "url": "http://www.rgvcovid19cases.com"
+      },
+      {
+        "title": "Yeux Technologies",
+        "category": "Website for an online software development company",
+        "image": "yeux-tech.png",
+        "url": "http://www.yeux.tech"
+      }
+    ],
+    "media": [
+      {
+        "title": "Austin Statesman",
+        "category": "Commentary: Inland Border Patrol checkpoints shouldn’t hurt those who live here",
+        "image": "austin-statesman-logo.jpeg",
+        "url": "https://www.statesman.com/opinion/20190708/commentary-inland-border-patrol-checkpoints-shouldnt-hurt-those-who-live-here"
+      },
+      {
+        "title": "KRGV Channel 5 News",
+        "category": "Valley man creates website to better track coronavirus cases",
+        "image": "krgv-channel-5-news-logo.png",
+        "url": "https://www.krgv.com/videos/valley-man-creates-website-to-better-track-coronavirus-cases-72386/"
+      },
+      {
+        "title": "Somos Noticias El Valle",
+        "category": "Reacciones en el Valle a límites de renovaciones de DACA",
+        "image": "somos-noticias-el-valle-logo.png",
+        "url": "https://www.krgv.com/news/reacciones-en-el-valle-a-l-mites-de-renovaciones-de-daca"
+      },
+      {
+        "title": "Univision Valle Del Río Grande",
+        "category": "Entrevista",
+        "image": "univision-valle-del-rio-grande-logo.png",
+        "url": "https://noticiasya.com/el-valle/"
+      },
+      {
+        "title": "Dreamers In Tech",
+        "category": "Panel Event",
+        "image": "dreamers-in-tech-logo.png",
+        "url": "https://www.dreamersintech.org/"
+      },
+      {
+        "title": "Real Change News Seattle",
+        "category": "DACA recipients and supporters continue to plead for at least a path to citizenship",
+        "image": "real-change-news-seattle-logo.png",
+        "homepageUrl": "https://www.realchangenews.org/",
+        "url": "https://www.realchangenews.org/news/2020/07/15/daca-recipients-and-supporters-continue-plead-least-path-citizenship"
+      },
+      {
+        "title": "My RGV News",
+        "category": "DACA recipients labor on front lines; Medical workers in limbo",
+        "image": "my-rgv-news-logo.jpeg",
+        "homepageUrl": "https://myrgv.com/",
+        "url": "https://myrgv.com/local-news/2020/04/19/daca-recipients-labor-on-front-lines-medical-workers-in-limbo/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have been here for almost 4 years. I have been to a lot of incredible events here aimed at bettering the lives of minority groups, but I have never been to one as impactful as today's. Thank you so much for sharing your stories.",
+        "user": "Testimonial 1"
+      }
+    ]
+  }
+}
