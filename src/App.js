@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ReactGA from 'react-ga';
 import $ from 'jquery';
-import {Header, Footer, About, Resume, Contact, Testimonials, MediaPortfolio, Portfolio} from './Components';
+import {Header, Footer, About, Pulications, Contact, Testimonials, MediaPortfolio, Portfolio} from './Components';
 
 class App extends Component {
   constructor(props){
@@ -40,7 +40,7 @@ class App extends Component {
         <Header data={this.state.resumeData.main}/>
         <About data={this.state.resumeData.main}/>
         <MediaPortfolio data={this.state.resumeData.portfolio}/>
-        <Resume data={this.state.resumeData.resume}/>
+        <Pulications data={this.state.resumeData.resume}/>
         <Portfolio data={this.state.resumeData.portfolio}/>
         <Testimonials data={this.state.resumeData.testimonials}/>
         <Contact data={this.state.resumeData.main}/>

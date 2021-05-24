@@ -6,7 +6,7 @@ class Resume extends Component {
       var education = this.props.data.education.map(function(education){
         return (
           <div key={education.school}>
-            <h3>{education.school}</h3>
+            <a target="_blank" href={education.url}><h3>{education.school}</h3></a>
             <p className="info">By: <em className="date">{education.graduated}</em></p>
             <p>{education.description}</p>
           </div>

@@ -8,7 +8,7 @@ class MediaPortfolio extends Component {
         return (
           <div key={media.title} className="columns media-item">
             <div className="item-wrap">
-              <a target="_blank" href={media.url} title={media.title}>
+              <a target="_blank" href={media.homepageUrl} title={media.title}>
                 <img alt={media.title} src={projectImage} />
                 <div className="overlay">
                   <div className="media-item-meta">

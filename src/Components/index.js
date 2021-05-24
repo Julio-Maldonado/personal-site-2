@@ -4,7 +4,7 @@ import Footer from './Footer';
 import Header from './Header';
 import MediaPortfolio from './MediaPortfolio';
 import Portfolio from './Portfolio';
-import Resume from './Resume';
+import Pulications from './Pulications';
 import Testimonials from './Testimonials';
 
-export {About, Contact, Footer, Header, MediaPortfolio, Portfolio, Resume, Testimonials};
+export {About, Contact, Footer, Header, MediaPortfolio, Portfolio, Pulications, Testimonials};
