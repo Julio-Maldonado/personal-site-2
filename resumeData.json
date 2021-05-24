@@ -41,13 +41,15 @@
         "school": "Waiting for the DACA Decision During the Pandemics: Two Perspectives",
         "degree": "",
         "graduated": "Dr. Dilma Da Silva and Julio Maldonado Guzman",
-        "description": "Article co-written with Dr. Dilma Da Silva on the DACA experience during the then upcoming Supreme Court decision in the midst of COVID-19"
+        "description": "Article co-written with Dr. Dilma Da Silva on the DACA experience during the then upcoming Supreme Court decision in the midst of COVID-19",
+        "url": "https://oaktrust.library.tamu.edu/handle/1969.1/188112"
       },
       {
         "school": "GraphBLAS: Solving Graph Algorithms with Linear Algebra",
         "degree": "",
         "graduated": "Julio Cesar Maldonado Guzman",
-        "description": "Published undergraduate thesis on the usage of GraphBLAS, a C library to represent graphs as hypersparse matrices and perform operations in the language of linear algebra, under Dr. Timothy Davis."
+        "description": "Published undergraduate thesis on the usage of GraphBLAS, a C library to represent graphs as hypersparse matrices and perform operations in the language of linear algebra, under Dr. Timothy Davis.",
+        "url": "https://oaktrust.library.tamu.edu/handle/1969.1/175413"
       }
     ],
     "work": [
@@ -97,30 +99,35 @@
         "title": "Austin Statesman",
         "category": "Commentary: Inland Border Patrol checkpoints shouldn’t hurt those who live here",
         "image": "austin-statesman-logo.jpeg",
+        "homepageUrl": "https://www.statesman.com",
         "url": "https://www.statesman.com/opinion/20190708/commentary-inland-border-patrol-checkpoints-shouldnt-hurt-those-who-live-here"
       },
       {
         "title": "KRGV Channel 5 News",
         "category": "Valley man creates website to better track coronavirus cases",
         "image": "krgv-channel-5-news-logo.png",
+        "homepageUrl": "https://www.krgv.com",
         "url": "https://www.krgv.com/videos/valley-man-creates-website-to-better-track-coronavirus-cases-72386/"
       },
       {
         "title": "Somos Noticias El Valle",
         "category": "Reacciones en el Valle a límites de renovaciones de DACA",
         "image": "somos-noticias-el-valle-logo.png",
+        "homepageUrl": "https://www.krgv.com",
         "url": "https://www.krgv.com/news/reacciones-en-el-valle-a-l-mites-de-renovaciones-de-daca"
       },
       {
         "title": "Univision Valle Del Río Grande",
         "category": "Entrevista",
         "image": "univision-valle-del-rio-grande-logo.png",
+        "homepageUrl": "https://noticiasya.com/el-valle/",
         "url": "https://noticiasya.com/el-valle/"
       },
       {
         "title": "Dreamers In Tech",
         "category": "Panel Event",
         "image": "dreamers-in-tech-logo.png",
+        "homepageUrl": "https://www.dreamersintech.org/",
         "url": "https://www.dreamersintech.org/"
       },
       {
