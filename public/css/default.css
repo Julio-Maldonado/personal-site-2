@@ -356,7 +356,7 @@ li p { }
 	margin: 6px 0 0 0;
 	font-size: 13px;
 	font-family: 'opensans-regular', sans-serif;
-   color: #8B9798;
+  color: #8B9798;
 }
 
 /* definition list */
@@ -449,8 +449,10 @@ dd { margin: 0 0 0 20px; }
 /*  5. Images  --------------------------------------------------------- */
 
 img {
-   max-width: 100%;
-   height: auto;
+  max-width: 100%;
+  height: auto;
+  display:block;
+  margin:auto;
 }
 img.pull-right { margin: 12px 0px 0px 18px; }
 img.pull-left { margin: 12px 18px 0px 0px; }
